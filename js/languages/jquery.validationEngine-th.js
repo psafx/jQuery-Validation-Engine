@@ -176,13 +176,13 @@
                     // speaks by itself
                     "alertTextLoad": "* กำลังจรวจสอบข้อมูล"
                 },
-                 "ajaxNameCallPhp": {
-                        // remote json service location
-                        "url": "phpajax/ajaxValidateFieldName.php",
-                        // error
-                        "alertText": "* ชื่อนี้ถูกใช้ไปแล้ว",
-                        // speaks by itself
-                        "alertTextLoad": "* กำลังจรวจสอบข้อมูล"
+                "ajaxNameCallPhp": {
+                    // remote json service location
+                    "url": "phpajax/ajaxValidateFieldName.php",
+                    // error
+                    "alertText": "* ชื่อนี้ถูกใช้ไปแล้ว",
+                    // speaks by itself
+                    "alertTextLoad": "* กำลังจรวจสอบข้อมูล"
                 },
                 "validate2fields": {
                     "alertText": "* กรอกข้อมูล HELLO"
@@ -201,7 +201,6 @@
                     "alertText4": "ปปปป-ดด-วว hh:mm:ss AM|PM"
                 }
             };
-
         }
     };
 
